@@ -78,3 +78,7 @@ If you have any questions about this privacy policy or your data, contact:
 
 **Quitlette**
 quitlette@gmail.com
+
+## Health Disclaimer
+
+Quitlette is a habit-reduction tool, not a medical device, treatment program, or substitute for professional care. The app does not provide medical advice, diagnosis, or treatment. If you are struggling with substance use, addiction, or a related health condition, please consult a doctor, therapist, or addiction specialist. Quitlette does not guarantee any particular outcome, and individual results will vary.
